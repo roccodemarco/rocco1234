@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
   <category>
-    <pattern>*</pattern>
-    <template>I have no answer for that.</template>
+    <pattern>ciao</pattern>
+    <template>mannaggia a te fai sempre ritardo</template>
   </category>
-</aiml>
+
+
+
+
+  <category>
+    <pattern>come stai?</pattern>
+    <template>bene dai</template>
+  </category>
+
+
+
+
+  <category>
+    <pattern>vieni da me domani?</pattern>
+    <template>vediamo ma non ne sono sicuro</template>
+  </category>
+
+
+
+
+
+  <category>
+    <pattern>ci vediamo domani</pattern>
+    <template> ciao coglione</template>
+  </category>
+  </aiml>
